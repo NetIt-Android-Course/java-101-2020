@@ -1,4 +1,4 @@
-# NetIt course (Topic: Android)
+# NetIt course (Topic: Java 101)
 
 __Duration__: May - Jul 2020 
 
@@ -38,15 +38,6 @@ Platform: [Link]()
 ......
 
 ## Tutors
-
-### Dimitar Danailov
-
-I have been working at Software Industry since 2008. 
-I have experience with different technologies, frameworks and libraries.
-
-More about me:
-- [Stacoverflow](https://stackoverflow.com/users/609707/d-danailov)
-- [Github](https://github.com/dimitardanailov)
 
 ### Teodor Kostadinov
 
