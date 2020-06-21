@@ -29,30 +29,28 @@ Platform: [Link]()
 
 ## Schedule
 
-| Lecture | Date | Tutor | Time |
-|---------|:-----|:------|:-----|
-| Course Introduction | 15 May | Teodor Kostadinov | 18:30 |
-| Data Types | 17 May | Teodor Kostadinov | 18:30 |
-| Operators |  22 May | Teodor Kostadinov | 18:30 |
-| Conditional Statements | 24 May | Teodor Kostadinov | 18:30 |
-......
+You can find the current schedule [HERE] (https://docs.google.com/spreadsheets/d/1u1TmA2tb8agRthGfOmIliYxzYhvzIAgFGMqbLilZB5M/edit?usp=sharing)
 
 ## Tutors
 
 ### Teodor Kostadinov
 
-I have been programming professionaly since 2013.
+I have been programming professionally since 2013.
 Not great, not terrible.
 
 ## Exam
 
 A test - questions covering the whole material
 
+## Homeworkd
+
+All homeworks have to be uploaded to GitHub and the link to the repo to be provided [HERE] (https://docs.google.com/forms/d/e/1FAIpQLSelNImMmX8ZcFG_o7Ffjb7IkQG3QoJF2l0VJ3pSQngEfTvXBw/viewform?usp=sf_link)
+
 ## Presentations
 
-| Lecture | Link | Video | Repo |
-|---------|:-----|:------|:-----|
-| Course Introduction | [Link]() | [Video]() | [Repo]() |
+| Lecture | Presentation | Video | 
+|---------|:-----|:------|
+| Course Introduction | [Presentation]() | [Video]() |
 
 ## Tutorials
 
