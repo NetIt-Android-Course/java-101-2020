@@ -38,7 +38,7 @@ All homeworks have to be uploaded to GitHub and the link to the repo to be provi
 
 ## Presentations
 
-All presentations can be found [HERE] (https://github.com/NetIt-Android-Course/java-101-2020/tree/master/Presentations)
+All presentations can be found [HERE](https://github.com/NetIt-Android-Course/java-101-2020/tree/master/Presentations)
 
 
 ## Videos
@@ -46,6 +46,20 @@ All presentations can be found [HERE] (https://github.com/NetIt-Android-Course/j
 | Lecture | Video | 
 |---------|:-----|
 | Course Introduction | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/1_Lekcia_15.05.2020.mp4) |
+| Data Types | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/2_Lekcia_17.05.2020.mp4) |
+| Operators | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/3_Lekcia_29.05.2020.mp4) |
+| Conditional Statements | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/4_Lekcia_31.05.2020.mp4) |
+| Methods | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/5_Lekcia_05.06.2020.mp4) |
+| Lab | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/6_Lekcia_07.06.2020.mp4) |
+| Loops. While | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/7_Lekcia_12.06.2020.mp4) |
+| Loops. For | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/8_Lekcia_14.06.2020.mp4) |
+| Arrays. Part 1 | [Video]() |
+| Arrays. Part 2 | [Video]() |
+| Lab | [Video]() |
+| Clean code. Part 1 | [Video]() |
+| Strings | [Video]() |
+| GitHub | [Video]() |
+| Test and Revision | [Video]() |
 
 ## Tutorials
 
