@@ -4,12 +4,12 @@ __Duration__: May - Jul 2020
 
 ## Table of Contents
 
-  1. [Links](#links)
   1. [Schedule](#schedule)
   1. [Tutors](#tutors)
   1. [Exam](#exam)
-  1. [Slides](#slides)
-  1. [Slack](#slack)
+  1. [Homework](#homework)
+  1. [Presentations](#presentations)
+  1. [Videos](#videos)
   1. [Tutorials](#tutorials)
   1. [Issues](#issues)
   1. [Resources](#resources)
@@ -17,19 +17,9 @@ __Duration__: May - Jul 2020
   1. [Repos](#repos)
   1. [License](#license)
 
-## Links
-
-Facebook group: [Link](https://www.facebook.com/groups/)
-
-Github: [Link](https://github.com/NetIt-Android-Course/java-101-2020)
-
-Moodle: [Link]()
-
-Platform: [Link]()
-
 ## Schedule
 
-You can find the current schedule [HERE] (https://docs.google.com/spreadsheets/d/1u1TmA2tb8agRthGfOmIliYxzYhvzIAgFGMqbLilZB5M/edit?usp=sharing)
+You can find the current schedule [HERE](https://docs.google.com/spreadsheets/d/1u1TmA2tb8agRthGfOmIliYxzYhvzIAgFGMqbLilZB5M/edit?usp=sharing)
 
 ## Tutors
 
@@ -42,15 +32,20 @@ Not great, not terrible.
 
 A test - questions covering the whole material
 
-## Homeworkd
+## Homework
 
-All homeworks have to be uploaded to GitHub and the link to the repo to be provided [HERE] (https://docs.google.com/forms/d/e/1FAIpQLSelNImMmX8ZcFG_o7Ffjb7IkQG3QoJF2l0VJ3pSQngEfTvXBw/viewform?usp=sf_link)
+All homeworks have to be uploaded to GitHub and the link to the repo to be provided [HERE](https://docs.google.com/forms/d/e/1FAIpQLSelNImMmX8ZcFG_o7Ffjb7IkQG3QoJF2l0VJ3pSQngEfTvXBw/viewform?usp=sf_link)
 
 ## Presentations
 
-| Lecture | Presentation | Video | 
-|---------|:-----|:------|
-| Course Introduction | [Presentation]() | [Video]() |
+All presentations can be found [HERE] (https://github.com/NetIt-Android-Course/java-101-2020/tree/master/Presentations)
+
+
+## Videos
+
+| Lecture | Video | 
+|---------|:-----|
+| Course Introduction | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/1_Lekcia_15.05.2020.mp4) |
 
 ## Tutorials
 
