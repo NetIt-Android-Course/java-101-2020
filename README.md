@@ -53,10 +53,10 @@ All presentations can be found [HERE](https://github.com/NetIt-Android-Course/ja
 | Lab | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/6_Lekcia_07.06.2020.mp4) |
 | Loops. While | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/7_Lekcia_12.06.2020.mp4) |
 | Loops. For | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/8_Lekcia_14.06.2020.mp4) |
-| Arrays. Part 1 | [Video]() |
-| Arrays. Part 2 | [Video]() |
-| Lab | [Video]() |
-| Clean code. Part 1 | [Video]() |
+| Arrays. Part 1 | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/9_Lekcia_19.06.2020.mp4) |
+| Arrays. Part 2 | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/10_Lekcia_21.06.2020.mp4) |
+| Lab | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/11_Lekcia_30.06.2020.mp4) |
+| Clean code. Part 1 | [Video](https://player.netit.bg/SOFTWARE_ACADEMY/ANDROID/Android_15.05.2020/12_Lekcia_07.07.2020.mp4) |
 | Strings | [Video]() |
 | GitHub | [Video]() |
 | Test and Revision | [Video]() |
